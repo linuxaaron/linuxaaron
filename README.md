@@ -26,8 +26,12 @@ Meine größte Stärke ist Recherche. Ich kann mich schnell in komplexe Themen e
 - Full-Stack Webentwicklung mit modernen Webtechnologien
 - Cybersecurity und Web Security
 - OSINT und technische Recherche
-- Linux / Unix und Netzwerktechnik
-- Cloud Computing mit Vercel, Cloudflare und Oracle Cloud
+- Linux / Unix, Windows und macOS
+- BSD-Betriebssysteme
+- Netzwerktechnik und Systemadministration
+- Cloud Computing mit Vercel, Cloudflare, Oracle Cloud und Microsoft Azure
+- Containerisierung mit Docker
+- Git und GitHub
 - Automatisierung und technische Analyse
 - eigene Security- und Analyseprojekte
 
@@ -49,37 +53,63 @@ Meine größte Stärke ist Recherche. Ich kann mich schnell in komplexe Themen e
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![SQL](https://skillicons.dev/icons?i=mysql)
 
-### Infrastructure
+### Infrastructure & Cloud
 
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
+![Docker](https://skillicons.dev/icons?i=docker)
 ![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Oracle](https://skillicons.dev/icons?i=oracle)
+![Azure](https://skillicons.dev/icons?i=azure)
 
-## Security & Research
+## Operating Systems
+
+```text
+Linux / Unix
+Windows
+macOS
+BSD
+
+Debian-based systems
+Security-focused Linux environments
+Server systems
+Virtualized environments
+```
+
+## Security & OSINT
+
+Ich beschäftige mich mit passiver Informationsgewinnung, technischer Recherche, Webanalyse und Security Testing innerhalb eines definierten und autorisierten Rahmens.
+
+### OSINT & Research
 
 ```text
 OSINT
-Web Security
-Cybersecurity
-Security Research
-Technical Research
-Information Analysis
-Network Analysis
-Linux / Unix
+Technische Webrecherche
+Quellenanalyse
+WHOIS / DNS-Recherche
+Domain- und Infrastruktur-Recherche
+Metadatenanalyse
+Social Media Recherche
+Informationskorrelation
+Network Reconnaissance
 ```
 
-Ich arbeite dabei ausschließlich innerhalb eines rechtlich zulässigen Rahmens und mit entsprechender Autorisierung, wenn Systeme oder Netzwerke geprüft werden.
+### Security Tools & Workflows
+
+```text
+Burp Suite
+Browser Developer Tools
+Nmap
+Wireshark
+OWASP-orientierte Webanalyse
+Linux Security Tools
+Netzwerkdiagnose
+Log- und Systemanalyse
+```
 
 ## Selected Projects
-
-### webseite
-
-Meine persönliche Website und technisches Portfolio. Webentwicklung, Cloud, Security, OSINT und digitale Projekte in einem laufenden Projekt.
-
-[Repository](https://github.com/linuxaaron/webseite) · [Website](https://joschaschmidt.com)
 
 ### web-osint
 
@@ -97,7 +127,9 @@ Projekt zur strukturierten technischen Analyse verdächtiger Dateien und Malware
 
 Ich arbeite nicht nur theoretisch mit Technologien, sondern setze sie in eigenen Projekten praktisch ein.
 
-Dazu gehören Webentwicklung und Deployment, DNS- und Edge-Konfiguration, Cloud-Infrastruktur, Linux- und Unix-Systeme, Netzwerke, Serverkonfiguration, Browser-Einrichtung, Automatisierung und technische Recherche.
+Dazu gehören Full-Stack Webentwicklung, Deployment, DNS- und Edge-Konfiguration, Cloud-Infrastruktur, Container mit Docker, Versionskontrolle mit Git und GitHub sowie Arbeiten mit Vercel, Cloudflare, Oracle Cloud und Azure.
+
+Außerdem beschäftige ich mich mit Linux- und Unix-Systemen, Windows, macOS und BSD, Netzwerken, Serverkonfiguration, Browser-Einrichtung, Automatisierung und technischer Recherche.
 
 Auch mit Kryptowährungen und Mining habe ich praktische Erfahrung. Ich habe Mininganlagen selbst aufgebaut, konfiguriert und in Betrieb genommen und dabei Hardware und technische Infrastruktur eingerichtet.
 
