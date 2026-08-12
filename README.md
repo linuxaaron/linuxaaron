@@ -9,6 +9,8 @@ Web Development · Cybersecurity · OSINT · Linux · Cloud Infrastructure
 [![Website](https://img.shields.io/badge/Website-joschaschmidt.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joschaschmidt.com)
 [![GitHub](https://img.shields.io/badge/GitHub-linuxaaron-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/linuxaaron)
 
+<video src="https://raw.githubusercontent.com/linuxaaron/linuxaaron/main/profile.mp4" controls muted loop playsinline width="720"></video>
+
 </div>
 
 ---
