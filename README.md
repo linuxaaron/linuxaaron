@@ -1,93 +1,116 @@
 # Joscha Aaron Schmidt
 
-### IT · Cybersecurity · OSINT · Web Development · Cloud
+IT, Cybersecurity, OSINT, Web Development and Cloud.
 
-Technisch orientierter IT-Allrounder mit Fokus auf **OSINT, Cybersecurity, Webentwicklung, Cloud Computing und technische Recherche**.
+Ich beschäftige mich seit Jahren mit IT und interessiere mich vor allem dafür, wie Systeme funktionieren und wie man technische Probleme sinnvoll löst.
 
-Meine Stärke liegt darin, komplexe technische und informationelle Zusammenhänge schnell zu erfassen, relevante Informationen gezielt zu recherchieren und daraus praktikable Lösungen zu entwickeln.
+Meine größte Stärke ist OSINT und Recherche. Ich kann mich schnell in komplexe Themen einarbeiten, Informationen aus unterschiedlichen Quellen miteinander verbinden und daraus praktikable Lösungen entwickeln.
 
----
+Ich arbeite viel mit Linux, Webtechnologien und Netzwerken und beschäftige mich auch mit Cloud-Infrastruktur. Vercel, Cloudflare und Oracle Cloud gehören dabei ebenso zu meinen Projekten wie klassische Server- und Systemtechnik.
 
-## 🧠 Schwerpunkte
+## Über mich
 
-- 🔎 **OSINT & Research** — gezielte Recherche, Informationskorrelation und Analyse öffentlich verfügbarer Informationen
-- 🛡️ **Cybersecurity & Web Security** — technische Analyse von Webanwendungen, HTTP/HTTPS, DNS, TLS und Security-Mechanismen
-- 🌐 **Webdesign & Webentwicklung** — moderne Webseiten, Landingpages und technische Webprojekte
-- ☁️ **Cloud Computing** — Vercel, Cloudflare und praktische Arbeit mit Cloud-Infrastrukturen, u. a. Oracle Cloud
-- 🖥️ **Linux & Unix** — Systemadministration, Konfiguration, Fehleranalyse und technische Infrastruktur
-- 🌐 **Netzwerktechnik** — Netzwerkgrundlagen, Dienste, Protokolle und praktische Systemkonfiguration
-- 🧩 **Problemlösung** — komplexe Themen strukturiert analysieren, Zusammenhänge erkennen und robuste Lösungen entwickeln
-- 💡 **Kreatives Denken** — technische Probleme aus unterschiedlichen Perspektiven betrachten und neue Lösungswege entwickeln
+Ich lerne am liebsten durch praktische Projekte. Dabei geht es mir nicht darum, möglichst viele Technologien aufzulisten, sondern sie wirklich zu verstehen und sinnvoll einzusetzen.
 
----
+Besonders interessieren mich:
 
-## 💻 Technologien & Programmiersprachen
+- OSINT und technische Recherche
+- Cybersecurity und Web Security
+- Webdesign und Webentwicklung
+- Linux und Unix
+- Netzwerktechnik
+- Cloud Computing
+- Automatisierung
+- technische Analyse
+- kreative Problemlösung
+- Kryptowährungen und Mining
 
-| Bereich | Technologien |
-|---|---|
-| **Programming** | Python · Rust · Go · JavaScript · TypeScript · PHP |
-| **Web** | HTML · CSS · JavaScript · Next.js |
-| **Data** | SQL |
-| **Cloud** | Vercel · Cloudflare · Oracle Cloud |
-| **Security** | OSINT · Web Security · Cybersecurity · Security Research |
-| **Infrastructure** | Linux · Unix · Netzwerktechnik · Server · Git · GitHub |
-| **Digital** | Social Media · SEO · technische Content-Projekte |
+## Programmiersprachen
 
----
+Python  
+Rust  
+Go  
+JavaScript  
+TypeScript  
+PHP
 
-## 🔬 Praktische Erfahrung
+## Web
+
+HTML  
+CSS  
+JavaScript  
+TypeScript  
+Next.js
+
+## Datenbanken
+
+SQL
+
+## Cloud und Infrastruktur
+
+Vercel  
+Cloudflare  
+Oracle Cloud  
+Linux  
+Unix  
+Server  
+Netzwerktechnik  
+Git  
+GitHub
+
+## Security und Recherche
+
+OSINT  
+Web Security  
+Cybersecurity  
+Informationsrecherche  
+Technische Analyse
+
+## Praktische Erfahrung
 
 Ich arbeite nicht nur theoretisch mit Technologien, sondern setze sie in eigenen Projekten praktisch um.
 
-Dazu gehören unter anderem:
+Dazu gehören die Entwicklung und der Betrieb eigener Webseiten und Webanwendungen, Deployment mit Vercel, DNS- und Edge-Konfiguration mit Cloudflare sowie Arbeiten mit Cloud-Infrastrukturen wie Oracle Cloud.
 
-- Entwicklung und Betrieb eigener Webseiten und Webanwendungen
-- Deployment und Hosting mit **Vercel**
-- DNS- und Edge-Konfiguration mit **Cloudflare**
-- Arbeiten mit **Cloud-Infrastrukturen**, beispielsweise Oracle Cloud
-- Entwicklung eigener Tools und Automatisierungen
-- technische Recherche und OSINT-Analysen
-- Konfiguration und Analyse von Linux- und Unix-Systemen
-- Netzwerk- und Serverkonfiguration
-- Browser-Einrichtung und technische Systemoptimierung
-- praktische Arbeit mit Kryptowährungen und Blockchain-Technologien
-- **Aufbau, Konfiguration und Inbetriebnahme von Mininganlagen** einschließlich Hardware- und Systemkonfiguration
+Außerdem beschäftige ich mich mit Linux- und Unix-Systemen, Netzwerken, Serverkonfiguration, Browser-Einrichtung, technischen Automatisierungen und der Analyse komplexer technischer Zusammenhänge.
 
----
+Ein weiterer Bereich, mit dem ich mich praktisch beschäftigt habe, sind Kryptowährungen und Mining. Ich habe Mininganlagen selbst aufgebaut, konfiguriert und in Betrieb genommen und dabei sowohl die Hardware als auch die technische Infrastruktur dahinter eingerichtet.
 
-## 🚀 Projekte
+## Projekte
 
-### 🌐 Website
-**Portfolio und technische Plattform für Webentwicklung, Cybersecurity, OSINT und digitale Projekte.**
+### Website
 
-→ [linuxaaron.dpdns.org](https://linuxaaron.dpdns.org)
+Meine eigene Website ist gleichzeitig Portfolio und laufendes technisches Projekt. Dort verbinde ich Webentwicklung, Cloud, Security, OSINT und digitale Projekte.
 
-### 🔎 Web OSINT
-Werkzeuge für die passive technische Analyse öffentlich beobachtbarer Webinformationen.
+https://linuxaaron.dpdns.org
 
-→ [web-osint](https://github.com/linuxaaron/web-osint)
+### Web OSINT
 
-### 🦠 Malware Analyzer
-Projekt zur technischen Analyse verdächtiger Dateien und Malware-Indikatoren.
+Ein eigenes Projekt für die passive technische Analyse öffentlich beobachtbarer Webinformationen.
 
-→ [malware-analyzer](https://github.com/linuxaaron/malware-analyzer)
+https://github.com/linuxaaron/web-osint
 
-### 📦 Weitere Projekte
-Eigene Tools, Automatisierungen und technische Experimente rund um Linux, Security, Webentwicklung und OSINT.
+### Malware Analyzer
 
-→ [Alle Repositories](https://github.com/linuxaaron?tab=repositories)
+Ein Projekt zur technischen Analyse verdächtiger Dateien und Malware-Indikatoren.
 
----
+https://github.com/linuxaaron/malware-analyzer
 
-## 🧭 Arbeitsweise
+## Aktuell
 
-**Recherche → Analyse → Zusammenhänge erkennen → Lösung entwickeln → technisch sauber umsetzen**
+Aktuell beschäftige ich mich weiter mit Webentwicklung, Cybersecurity, OSINT, Cloud Computing und verschiedenen eigenen Projekten.
 
-Ich lege Wert auf **technische Genauigkeit, nachvollziehbare Ergebnisse, Sicherheit und praxisnahe Lösungen**.
+Ich lerne ständig dazu und probiere gerne neue Technologien aus. Gerade bei komplexen Themen versuche ich nicht einfach irgendeine Lösung zu übernehmen, sondern zuerst zu verstehen, wo das eigentliche Problem liegt.
 
----
+## Meine Arbeitsweise
 
-## 📫 Kontakt & Links
+Wenn ich vor einem komplexen Problem stehe, versuche ich zuerst zu verstehen, was tatsächlich dahintersteckt.
 
-- 🌐 Website: [linuxaaron.dpdns.org](https://linuxaaron.dpdns.org)
-- 💻 GitHub: [@linuxaaron](https://github.com/linuxaaron)
+Recherche → Analyse → Zusammenhänge erkennen → Lösung entwickeln → testen
+
+Dabei ist mir wichtig, dass eine Lösung nicht nur funktioniert, sondern auch nachvollziehbar und technisch sauber umgesetzt ist.
+
+## Links
+
+Website: https://linuxaaron.dpdns.org  
+GitHub: https://github.com/linuxaaron
