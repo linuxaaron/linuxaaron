@@ -82,7 +82,7 @@ Ein weiterer Bereich, mit dem ich mich praktisch beschäftigt habe, sind Kryptow
 
 Meine eigene Website ist gleichzeitig Portfolio und laufendes technisches Projekt. Dort verbinde ich Webentwicklung, Cloud, Security, OSINT und digitale Projekte.
 
-https://linuxaaron.dpdns.org
+https://joschaschmidt.com
 
 ### Web OSINT
 
@@ -110,7 +110,11 @@ Recherche → Analyse → Zusammenhänge erkennen → Lösung entwickeln → tes
 
 Dabei ist mir wichtig, dass eine Lösung nicht nur funktioniert, sondern auch nachvollziehbar und technisch sauber umgesetzt ist.
 
+## Rechtlicher Hinweis
+
+Die auf diesem Profil veröffentlichten Tools, Beispiele und technischen Inhalte dienen ausschließlich zu Lern-, Forschungs- und Testzwecken. Sicherheitsprüfungen, Penetrationstests oder sonstige Zugriffe auf fremde Systeme dürfen ausschließlich mit ausdrücklicher Genehmigung des jeweiligen Eigentümers und innerhalb eines klar definierten Scopes durchgeführt werden. Eine unbefugte Nutzung ist nicht gestattet.
+
 ## Links
 
-Website: https://linuxaaron.dpdns.org  
+Website: https://joschaschmidt.com  
 GitHub: https://github.com/linuxaaron
