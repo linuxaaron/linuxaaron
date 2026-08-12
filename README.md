@@ -1,12 +1,13 @@
 # Joscha Aaron Schmidt
 
-IT, Cybersecurity, OSINT, Web Development and Cloud.
+**Full-Stack Developer & Security Researcher**  
+Web Development · Cybersecurity · OSINT · Linux · Cloud Infrastructure
 
 Ich beschäftige mich seit Jahren mit IT und interessiere mich vor allem dafür, wie Systeme funktionieren und wie man technische Probleme sinnvoll löst.
 
 Meine größte Stärke ist OSINT und Recherche. Ich kann mich schnell in komplexe Themen einarbeiten, Informationen aus unterschiedlichen Quellen miteinander verbinden und daraus praktikable Lösungen entwickeln.
 
-Ich arbeite viel mit Linux, Webtechnologien und Netzwerken und beschäftige mich auch mit Cloud-Infrastruktur. Vercel, Cloudflare und Oracle Cloud gehören dabei ebenso zu meinen Projekten wie klassische Server- und Systemtechnik.
+Ich arbeite viel mit Linux, Webtechnologien und Netzwerken und beschäftige mich mit Cloud-Infrastruktur. Vercel, Cloudflare und Oracle Cloud gehören dabei ebenso zu meinen Projekten wie klassische Server- und Systemtechnik.
 
 ## Über mich
 
@@ -14,9 +15,9 @@ Ich lerne am liebsten durch praktische Projekte. Dabei geht es mir nicht darum, 
 
 Besonders interessieren mich:
 
-- OSINT und technische Recherche
+- Full-Stack Webentwicklung
 - Cybersecurity und Web Security
-- Webdesign und Webentwicklung
+- OSINT und technische Recherche
 - Linux und Unix
 - Netzwerktechnik
 - Cloud Computing
@@ -63,6 +64,7 @@ GitHub
 OSINT  
 Web Security  
 Cybersecurity  
+Security Research  
 Informationsrecherche  
 Technische Analyse
 
