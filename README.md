@@ -186,3 +186,14 @@ Sicherheitsprüfungen, Penetrationstests oder sonstige Zugriffe auf fremde Syste
 <sub>Built with curiosity, research and practical engineering.</sub>
 
 </div>
+
+
+## Responsible Use and Legal Notice
+
+The projects and security-related examples referenced in this profile are intended for legitimate development, learning, research, defensive security and authorized testing.
+
+Use security, OSINT, reconnaissance and analysis tools only against systems, domains, accounts, data or devices that you own or for which you have explicit authorization from the owner. Do not use them to bypass authentication or access controls, obtain data without authorization, disrupt services, evade security controls, or otherwise access third-party systems without permission.
+
+You are solely responsible for how you use any project from this profile. The MIT License grants rights to the software; it does not grant permission to access third-party systems, accounts, data or services, and it does not override applicable laws, contracts or third-party terms of service.
+
+Third-party software, APIs, trademarks, datasets and other assets remain subject to their respective licenses and terms. Before redistribution or commercial use, verify that all included dependencies and assets may legally be used for that purpose.
