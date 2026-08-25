@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer & Security Researcher
 
-Webentwicklung · Cybersecurity · OSINT · Linux · Cloud-Infrastruktur
+Webentwicklung · Cybersecurity · OSINT · Linux · Cloud-Infrastruktur · AI
 
 [![Website](https://img.shields.io/badge/Website-joschaschmidt.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joschaschmidt.com)
 [![GitHub](https://img.shields.io/badge/GitHub-linuxaaron-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/linuxaaron)
@@ -35,50 +35,75 @@ Meine größte Stärke ist Recherche. Ich kann mich schnell in komplexe Themen e
 - Containerisierung mit Docker
 - Git und GitHub
 - Automatisierung und technische Analyse
+- KI-gestützte Entwicklung mit OpenAI und Claude
 - eigene Security- und Analyseprojekte
 
-## Tech Stack
+## Knowledge & Skills
 
-### Programmiersprachen
+### Security & Development
 
+![Burp Suite](https://img.shields.io/badge/BURP%20SUITE-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/METASPLOIT-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Bash](https://skillicons.dev/icons?i=bash)
 ![Python](https://skillicons.dev/icons?i=python)
-![Rust](https://skillicons.dev/icons?i=rust)
-![Go](https://skillicons.dev/icons?i=go)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![PHP](https://skillicons.dev/icons?i=php)
-
-### Web & Daten
-
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![SQL](https://skillicons.dev/icons?i=mysql)
-
-### Infrastruktur & Cloud
-
 ![Linux](https://skillicons.dev/icons?i=linux)
+![Go](https://skillicons.dev/icons?i=go)
 ![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
+
+### Languages & Web
+
+![Debian](https://skillicons.dev/icons?i=debian)
 ![Docker](https://skillicons.dev/icons?i=docker)
-![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
-![Vercel](https://skillicons.dev/icons?i=vercel)
-![Oracle](https://skillicons.dev/icons?i=oracle)
-![Azure](https://skillicons.dev/icons?i=azure)
+![Flutter](https://skillicons.dev/icons?i=flutter)
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Java](https://skillicons.dev/icons?i=java)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![React](https://skillicons.dev/icons?i=react)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
 
-## Betriebssysteme
+### Frameworks, Databases & Tools
 
-```text
-Linux / Unix
-Windows
-macOS
-BSD
+![BlackArch](https://img.shields.io/badge/BLACKARCH-000000?style=flat-square&logo=archlinux&logoColor=white)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Express.js](https://skillicons.dev/icons?i=express)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+![Kali Linux](https://skillicons.dev/icons?i=kali)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
-Debian-basierte Systeme
-Security-orientierte Linux-Umgebungen
-Serversysteme
-Virtualisierte Umgebungen
-```
+### Operating Systems
+
+![Parrot OS](https://img.shields.io/badge/PARROT%20OS-00A4E4?style=flat-square&logo=linux&logoColor=white)
+![GhostBSD](https://img.shields.io/badge/GHOSTBSD-000000?style=flat-square&logo=freebsd&logoColor=white)
+![Kali Linux](https://skillicons.dev/icons?i=kali)
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+![Debian](https://skillicons.dev/icons?i=debian)
+![BlackArch](https://img.shields.io/badge/BLACKARCH-000000?style=flat-square&logo=archlinux&logoColor=white)
+![Linux](https://skillicons.dev/icons?i=linux)
+
+### Artificial Intelligence
+
+![OpenAI](https://img.shields.io/badge/OPENAI-000000?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/CLAUDE-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+## GitHub Stats 🤖
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=linuxaaron&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linuxaaron&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="170" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=linuxaaron&hide_border=true&theme=transparent" />
+
+</div>
 
 ## Security & OSINT
 
@@ -170,21 +195,6 @@ Testen
 ```
 
 Mir ist wichtig, dass eine Lösung nicht nur funktioniert, sondern technisch nachvollziehbar, wartbar und sauber umgesetzt ist.
-
-## GitHub-Statistiken
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=linuxaaron&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linuxaaron&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="170" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=linuxaaron&hide_border=true&theme=transparent" />
-
-</div>
 
 ## Kontakt & Links
 
