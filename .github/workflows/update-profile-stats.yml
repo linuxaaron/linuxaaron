@@ -18,6 +18,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # Generate the cards locally in the profile repository so the README
+      # does not depend on an external dynamic stats endpoint.
       - name: Generate GitHub stats
         uses: stats-organization/github-readme-stats-action@v2
         with:
