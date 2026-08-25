@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer & Security Researcher
 
-Web Development · Cybersecurity · OSINT · Linux · Cloud Infrastructure
+Webentwicklung · Cybersecurity · OSINT · Linux · Cloud-Infrastruktur
 
 [![Website](https://img.shields.io/badge/Website-joschaschmidt.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joschaschmidt.com)
 [![GitHub](https://img.shields.io/badge/GitHub-linuxaaron-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/linuxaaron)
@@ -15,17 +15,17 @@ Web Development · Cybersecurity · OSINT · Linux · Cloud Infrastructure
 
 ---
 
-## About
+## Über mich
 
 Ich beschäftige mich seit Jahren mit IT und arbeite besonders gerne an technischen Problemen, bei denen Recherche, Analyse und praktische Umsetzung zusammenkommen.
 
-Mein Schwerpunkt liegt auf **Full-Stack Webentwicklung, Cybersecurity und OSINT**. Dazu kommen Linux, Netzwerktechnik, Cloud-Infrastruktur und die technische Analyse komplexer Systeme.
+Mein Schwerpunkt liegt auf **Full-Stack-Webentwicklung, Cybersecurity und OSINT**. Dazu kommen Linux, Netzwerktechnik, Cloud-Infrastruktur und die technische Analyse komplexer Systeme.
 
 Meine größte Stärke ist Recherche. Ich kann mich schnell in komplexe Themen einarbeiten, Informationen aus unterschiedlichen Quellen miteinander verbinden und daraus nachvollziehbare und praktikable Lösungen entwickeln.
 
-## Current Focus
+## Aktueller Fokus
 
-- Full-Stack Webentwicklung mit modernen Webtechnologien
+- Full-Stack-Webentwicklung mit modernen Webtechnologien
 - Cybersecurity und Web Security
 - OSINT und technische Recherche
 - Linux / Unix, Windows und macOS
@@ -39,7 +39,7 @@ Meine größte Stärke ist Recherche. Ich kann mich schnell in komplexe Themen e
 
 ## Tech Stack
 
-### Languages
+### Programmiersprachen
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![Rust](https://skillicons.dev/icons?i=rust)
@@ -48,14 +48,14 @@ Meine größte Stärke ist Recherche. Ich kann mich schnell in komplexe Themen e
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![PHP](https://skillicons.dev/icons?i=php)
 
-### Web & Data
+### Web & Daten
 
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![SQL](https://skillicons.dev/icons?i=mysql)
 
-### Infrastructure & Cloud
+### Infrastruktur & Cloud
 
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Git](https://skillicons.dev/icons?i=git)
@@ -66,7 +66,7 @@ Meine größte Stärke ist Recherche. Ich kann mich schnell in komplexe Themen e
 ![Oracle](https://skillicons.dev/icons?i=oracle)
 ![Azure](https://skillicons.dev/icons?i=azure)
 
-## Operating Systems
+## Betriebssysteme
 
 ```text
 Linux / Unix
@@ -74,17 +74,17 @@ Windows
 macOS
 BSD
 
-Debian-based systems
-Security-focused Linux environments
-Server systems
-Virtualized environments
+Debian-basierte Systeme
+Security-orientierte Linux-Umgebungen
+Serversysteme
+Virtualisierte Umgebungen
 ```
 
 ## Security & OSINT
 
 Ich beschäftige mich mit passiver Informationsgewinnung, technischer Recherche, Webanalyse und Security Testing innerhalb eines definierten und autorisierten Rahmens.
 
-### OSINT & Research
+### OSINT & Recherche
 
 ```text
 OSINT
@@ -93,7 +93,7 @@ Quellenanalyse
 WHOIS / DNS-Recherche
 Domain- und Infrastruktur-Recherche
 Metadatenanalyse
-Social Media Recherche
+Social-Media-Recherche
 Informationskorrelation
 Network Reconnaissance
 ```
@@ -111,31 +111,49 @@ Netzwerkdiagnose
 Log- und Systemanalyse
 ```
 
-## Selected Projects
+## Ausgewählte Projekte
 
 ### web-osint
 
-Projekt für passive technische Webanalyse und OSINT-Workflows.
+Werkzeug für passive technische Webanalyse und OSINT-Workflows.
 
 [Repository](https://github.com/linuxaaron/web-osint)
 
 ### malware-analyzer
 
-Projekt zur strukturierten technischen Analyse verdächtiger Dateien und Malware-Indikatoren.
+Werkzeug zur strukturierten statischen Analyse verdächtiger Dateien und Malware-Indikatoren.
 
 [Repository](https://github.com/linuxaaron/malware-analyzer)
 
-## Practical Experience
+### security-dashboard
+
+Webanwendung zur Übersicht über Assets, Schwachstellen, Sicherheitsereignisse und einen nachvollziehbaren Security Score.
+
+[Repository](https://github.com/linuxaaron/security-dashboard)
+
+### Osint-ADHD
+
+Kuratierte Sammlung von OSINT-Ressourcen mit automatischer Synchronisation des offiziellen OSINT Frameworks.
+
+[Repository](https://github.com/linuxaaron/Osint-ADHD)
+
+### tiktok-mobile-emulator
+
+Inoffizielle Browser-Erweiterung für eine iPhone-artige Desktop-Darstellung von TikTok.
+
+[Repository](https://github.com/linuxaaron/tiktok-mobile-emulator)
+
+## Praktische Erfahrung
 
 Ich arbeite nicht nur theoretisch mit Technologien, sondern setze sie in eigenen Projekten praktisch ein.
 
-Dazu gehören Full-Stack Webentwicklung, Deployment, DNS- und Edge-Konfiguration, Cloud-Infrastruktur, Container mit Docker, Versionskontrolle mit Git und GitHub sowie Arbeiten mit Vercel, Cloudflare, Oracle Cloud und Azure.
+Dazu gehören Full-Stack-Webentwicklung, Deployment, DNS- und Edge-Konfiguration, Cloud-Infrastruktur, Container mit Docker, Versionskontrolle mit Git und GitHub sowie Arbeiten mit Vercel, Cloudflare, Oracle Cloud und Azure.
 
 Außerdem beschäftige ich mich mit Linux- und Unix-Systemen, Windows, macOS und BSD, Netzwerken, Serverkonfiguration, Browser-Einrichtung, Automatisierung und technischer Recherche.
 
 Auch mit Kryptowährungen und Mining habe ich praktische Erfahrung. Ich habe Mininganlagen selbst aufgebaut, konfiguriert und in Betrieb genommen und dabei Hardware und technische Infrastruktur eingerichtet.
 
-## How I Work
+## Arbeitsweise
 
 ```text
 Recherche
@@ -153,7 +171,7 @@ Testen
 
 Mir ist wichtig, dass eine Lösung nicht nur funktioniert, sondern technisch nachvollziehbar, wartbar und sauber umgesetzt ist.
 
-## GitHub Stats
+## GitHub-Statistiken
 
 <div align="center">
 
@@ -168,32 +186,27 @@ Mir ist wichtig, dass eine Lösung nicht nur funktioniert, sondern technisch nac
 
 </div>
 
-## Contact & Links
+## Kontakt & Links
 
 **Website:** https://joschaschmidt.com  
 **GitHub:** https://github.com/linuxaaron
 
 ---
 
-## Legal Notice
+## Verantwortungsvolle Nutzung und rechtliche Hinweise
 
-Die auf diesem Profil veröffentlichten Tools, Beispiele und technischen Inhalte dienen ausschließlich zu Lern-, Forschungs- und Testzwecken.
+Die auf diesem Profil veröffentlichten Tools, Beispiele und technischen Inhalte dienen ausschließlich zu Lern-, Forschungs-, Entwicklungs- und Testzwecken sowie zur defensiven Security-Forschung.
 
-Sicherheitsprüfungen, Penetrationstests oder sonstige Zugriffe auf fremde Systeme dürfen ausschließlich mit ausdrücklicher Genehmigung des jeweiligen Eigentümers und innerhalb eines klar definierten Scopes durchgeführt werden. Eine unbefugte Nutzung ist nicht gestattet.
+Sicherheitsprüfungen, Penetrationstests, OSINT-Analysen oder sonstige Zugriffe auf fremde Systeme, Domains, Accounts oder Daten dürfen ausschließlich mit ausdrücklicher Genehmigung des jeweiligen Eigentümers und innerhalb eines klar definierten Scopes durchgeführt werden. Eine unbefugte Nutzung ist nicht gestattet.
+
+Die MIT-Lizenz gewährt Rechte am jeweiligen Quellcode. Sie gewährt **keine** Erlaubnis zum Zugriff auf fremde Systeme, Accounts oder Daten und setzt keine gesetzlichen Vorschriften, Verträge oder Nutzungsbedingungen Dritter außer Kraft.
+
+Drittanbieter-Software, APIs, Marken, Datensätze und sonstige Inhalte unterliegen ihren jeweiligen Lizenzen und Nutzungsbedingungen. Vor Weitergabe oder kommerzieller Nutzung sind diese Bedingungen eigenständig zu prüfen.
+
+Du bist selbst für die Nutzung der veröffentlichten Software und deren Folgen verantwortlich.
 
 <div align="center">
 
-<sub>Built with curiosity, research and practical engineering.</sub>
+<sub>Gebaut mit Neugier, Recherche und praktischer Softwareentwicklung.</sub>
 
 </div>
-
-
-## Responsible Use and Legal Notice
-
-The projects and security-related examples referenced in this profile are intended for legitimate development, learning, research, defensive security and authorized testing.
-
-Use security, OSINT, reconnaissance and analysis tools only against systems, domains, accounts, data or devices that you own or for which you have explicit authorization from the owner. Do not use them to bypass authentication or access controls, obtain data without authorization, disrupt services, evade security controls, or otherwise access third-party systems without permission.
-
-You are solely responsible for how you use any project from this profile. The MIT License grants rights to the software; it does not grant permission to access third-party systems, accounts, data or services, and it does not override applicable laws, contracts or third-party terms of service.
-
-Third-party software, APIs, trademarks, datasets and other assets remain subject to their respective licenses and terms. Before redistribution or commercial use, verify that all included dependencies and assets may legally be used for that purpose.
