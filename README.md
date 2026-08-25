@@ -94,14 +94,8 @@ Meine größte Stärke ist Recherche. Ich kann mich schnell in komplexe Themen e
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=linuxaaron&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linuxaaron&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="170" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=linuxaaron&hide_border=true&theme=transparent" />
+<img src="./profile/stats.svg" alt="GitHub Statistics" height="170" />
+<img src="./profile/top-langs.svg" alt="Top Languages" height="170" />
 
 </div>
 
