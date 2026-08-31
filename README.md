@@ -38,57 +38,96 @@ Meine größte Stärke ist Recherche. Ich kann mich schnell in komplexe Themen e
 - KI-gestützte Entwicklung mit OpenAI und Claude
 - eigene Security- und Analyseprojekte
 
-## Knowledge & Skills
+---
 
-### Security & Development
+## ⚡ Skills & Technologies
 
-![Burp Suite](https://img.shields.io/badge/BURP%20SUITE-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/METASPLOIT-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/WIRESHARK-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Bash](https://skillicons.dev/icons?i=bash)
-![Python](https://skillicons.dev/icons?i=python)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Go](https://skillicons.dev/icons?i=go)
-![Git](https://skillicons.dev/icons?i=git)
+### 💻 Programming Languages
 
-### Languages & Web
+<table>
+<tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=python" width="52"><br><sub><b>Python</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=go" width="52"><br><sub><b>Go</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=javascript" width="52"><br><sub><b>JavaScript</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=typescript" width="52"><br><sub><b>TypeScript</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=c" width="52"><br><sub><b>C</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=cpp" width="52"><br><sub><b>C++</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=java" width="52"><br><sub><b>Java</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=bash" width="52"><br><sub><b>Bash</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=sql" width="52"><br><sub><b>SQL</b></sub></td>
+</tr>
+</table>
 
-![Debian](https://skillicons.dev/icons?i=debian)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Flutter](https://skillicons.dev/icons?i=flutter)
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Java](https://skillicons.dev/icons?i=java)
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![React](https://skillicons.dev/icons?i=react)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
+### 🌐 Web Development
 
-### Frameworks, Databases & Tools
+<table>
+<tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=html" width="52"><br><sub><b>HTML5</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=css" width="52"><br><sub><b>CSS3</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=javascript" width="52"><br><sub><b>JavaScript</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=typescript" width="52"><br><sub><b>TypeScript</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=react" width="52"><br><sub><b>React</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=nextjs" width="52"><br><sub><b>Next.js</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=nodejs" width="52"><br><sub><b>Node.js</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=express" width="52"><br><sub><b>Express</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" width="52"><br><sub><b>Tailwind CSS</b></sub></td>
+</tr>
+</table>
 
-![BlackArch](https://img.shields.io/badge/BLACKARCH-000000?style=flat-square&logo=archlinux&logoColor=white)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Express.js](https://skillicons.dev/icons?i=express)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
-![Kali Linux](https://skillicons.dev/icons?i=kali)
-![VS Code](https://skillicons.dev/icons?i=vscode)
+### 🛠️ Tools & Frameworks
 
-### Operating Systems
+<table>
+<tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=git" width="52"><br><sub><b>Git</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" width="52"><br><sub><b>GitHub</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=docker" width="52"><br><sub><b>Docker</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=kubernetes" width="52"><br><sub><b>Kubernetes</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=vscode" width="52"><br><sub><b>VS Code</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=vim" width="52"><br><sub><b>Vim</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=postman" width="52"><br><sub><b>Postman</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=mongodb" width="52"><br><sub><b>MongoDB</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=flutter" width="52"><br><sub><b>Flutter</b></sub></td>
+</tr>
+</table>
 
-![Parrot OS](https://img.shields.io/badge/PARROT%20OS-00A4E4?style=flat-square&logo=linux&logoColor=white)
-![GhostBSD](https://img.shields.io/badge/GHOSTBSD-000000?style=flat-square&logo=freebsd&logoColor=white)
-![Kali Linux](https://skillicons.dev/icons?i=kali)
-![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
-![Debian](https://skillicons.dev/icons?i=debian)
-![BlackArch](https://img.shields.io/badge/BLACKARCH-000000?style=flat-square&logo=archlinux&logoColor=white)
-![Linux](https://skillicons.dev/icons?i=linux)
+### 🛡️ Cybersecurity
 
-### Artificial Intelligence
+<table>
+<tr>
+<td align="center" width="120"><img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" height="30"><br><sub><b>Burp Suite</b></sub></td>
+<td align="center" width="120"><img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" height="30"><br><sub><b>Metasploit</b></sub></td>
+<td align="center" width="120"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="30"><br><sub><b>Wireshark</b></sub></td>
+<td align="center" width="120"><img src="https://skillicons.dev/icons?i=linux" width="52"><br><sub><b>Linux Security</b></sub></td>
+</tr>
+</table>
 
-![OpenAI](https://img.shields.io/badge/OPENAI-000000?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/CLAUDE-D97757?style=flat-square&logo=anthropic&logoColor=white)
+### 🖥️ Operating Systems
+
+<table>
+<tr>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=linux" width="52"><br><sub><b>Linux</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=ubuntu" width="52"><br><sub><b>Ubuntu</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=debian" width="52"><br><sub><b>Debian</b></sub></td>
+<td align="center" width="110"><img src="https://img.shields.io/badge/Parrot%20OS-00A4E4?style=for-the-badge&logo=linux&logoColor=white" height="30"><br><sub><b>Parrot OS</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=kali" width="52"><br><sub><b>Kali Linux</b></sub></td>
+<td align="center" width="110"><img src="https://img.shields.io/badge/GhostBSD-000000?style=for-the-badge&logo=freebsd&logoColor=white" height="30"><br><sub><b>GhostBSD</b></sub></td>
+<td align="center" width="110"><img src="https://img.shields.io/badge/BlackArch-000000?style=for-the-badge&logo=archlinux&logoColor=white" height="30"><br><sub><b>BlackArch</b></sub></td>
+<td align="center" width="100"><img src="https://skillicons.dev/icons?i=apple" width="52"><br><sub><b>macOS</b></sub></td>
+</tr>
+</table>
+
+### 🤖 AI & Automation
+
+<table>
+<tr>
+<td align="center" width="110"><img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" height="30"><br><sub><b>OpenAI</b></sub></td>
+<td align="center" width="110"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="30"><br><sub><b>Claude</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=selenium" width="52"><br><sub><b>Selenium</b></sub></td>
+<td align="center" width="110"><img src="https://skillicons.dev/icons?i=terraform" width="52"><br><sub><b>Terraform</b></sub></td>
+</tr>
+</table>
+
+> **Tip:** Die Icons sind bewusst als einzelne Elemente mit Beschriftung aufgebaut. Dadurch bleibt die Darstellung auch auf kleineren Bildschirmen übersichtlich.
 
 ## GitHub Stats 🤖
 
