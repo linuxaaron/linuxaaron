@@ -1,6 +1,6 @@
 <div align="center">
 
-# Joscha Aaron Schmidt
+# Aaron
 
 ### Full-Stack Developer & Security Researcher
 
