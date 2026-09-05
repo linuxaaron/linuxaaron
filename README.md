@@ -1,6 +1,6 @@
 <div align="center">
 
-# Joscha Schmidt
+# Aaron
 
 ### Cybersecurity · OSINT · Datengetriebene Webanwendungen
 
